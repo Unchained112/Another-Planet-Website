@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Another-Planet-Website/static/css/main.038b3f1b.chunk.css",
-    "main.js": "/Another-Planet-Website/static/js/main.57a7f178.chunk.js",
-    "main.js.map": "/Another-Planet-Website/static/js/main.57a7f178.chunk.js.map",
+    "main.js": "/Another-Planet-Website/static/js/main.a9600853.chunk.js",
+    "main.js.map": "/Another-Planet-Website/static/js/main.a9600853.chunk.js.map",
     "runtime-main.js": "/Another-Planet-Website/static/js/runtime-main.13447980.js",
     "runtime-main.js.map": "/Another-Planet-Website/static/js/runtime-main.13447980.js.map",
     "static/css/2.0a9ec390.chunk.css": "/Another-Planet-Website/static/css/2.0a9ec390.chunk.css",
@@ -27,6 +27,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.5351fa39.chunk.js",
     "static/css/main.038b3f1b.chunk.css",
-    "static/js/main.57a7f178.chunk.js"
+    "static/js/main.a9600853.chunk.js"
   ]
 }

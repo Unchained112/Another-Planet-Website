@@ -24,7 +24,7 @@ function App() {
           <NavLink
             activeClassName="navlink-active"
             className="navbar-item"
-            to="/Another-Planet-Website/"
+            to="/"
             // key={"home"}
             // end={true}
           >
@@ -33,7 +33,7 @@ function App() {
           <NavLink
             activeClassName="navlink-active"
             className="navbar-item"
-            to="/Another-Planet-Website/game"
+            to="/game"
             // key={"home"}
             // end={true}
           >
@@ -42,16 +42,16 @@ function App() {
           <NavLink
             activeClassName="navbar-item active"
             className="navbar-item"
-            to="/Another-Planet-Website/about"
+            to="/about"
             // key={"about"}
           >
             A B O U T
           </NavLink>
         </div>
         <Routes>
-          <Route path="/Another-Planet-Website/" element={<Home/>} />
-          <Route path="/Another-Planet-Website/about" element={<About/>} />
-          <Route path="/Another-Planet-Website/game" element={<Game/>} />
+          <Route path="/" element={<Home/>} />
+          <Route path="/about" element={<About/>} />
+          <Route path="/game" element={<Game/>} />
         </Routes>
     </div>
   );
