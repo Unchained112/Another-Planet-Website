@@ -24,7 +24,7 @@ function App() {
           <NavLink
             activeClassName="navlink-active"
             className="navbar-item"
-            to="/"
+            to="Another-Planet-Website/"
             // key={"home"}
             // end={true}
           >
@@ -33,7 +33,7 @@ function App() {
           <NavLink
             activeClassName="navlink-active"
             className="navbar-item"
-            to="/game"
+            to="Another-Planet-Website/game"
             // key={"home"}
             // end={true}
           >
@@ -42,7 +42,7 @@ function App() {
           <NavLink
             activeClassName="navbar-item active"
             className="navbar-item"
-            to="/about"
+            to="Another-Planet-Website/about"
             // key={"about"}
           >
             A B O U T
