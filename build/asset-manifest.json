@@ -6,14 +6,14 @@
     "runtime-main.js": "/Another-Planet-Website/static/js/runtime-main.13447980.js",
     "runtime-main.js.map": "/Another-Planet-Website/static/js/runtime-main.13447980.js.map",
     "static/css/2.0a9ec390.chunk.css": "/Another-Planet-Website/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.7ffcd28b.chunk.js": "/Another-Planet-Website/static/js/2.7ffcd28b.chunk.js",
-    "static/js/2.7ffcd28b.chunk.js.map": "/Another-Planet-Website/static/js/2.7ffcd28b.chunk.js.map",
+    "static/js/2.5351fa39.chunk.js": "/Another-Planet-Website/static/js/2.5351fa39.chunk.js",
+    "static/js/2.5351fa39.chunk.js.map": "/Another-Planet-Website/static/js/2.5351fa39.chunk.js.map",
     "static/js/3.79c5f5ff.chunk.js": "/Another-Planet-Website/static/js/3.79c5f5ff.chunk.js",
     "static/js/3.79c5f5ff.chunk.js.map": "/Another-Planet-Website/static/js/3.79c5f5ff.chunk.js.map",
     "index.html": "/Another-Planet-Website/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/Another-Planet-Website/static/css/2.0a9ec390.chunk.css.map",
     "static/css/main.038b3f1b.chunk.css.map": "/Another-Planet-Website/static/css/main.038b3f1b.chunk.css.map",
-    "static/js/2.7ffcd28b.chunk.js.LICENSE.txt": "/Another-Planet-Website/static/js/2.7ffcd28b.chunk.js.LICENSE.txt",
+    "static/js/2.5351fa39.chunk.js.LICENSE.txt": "/Another-Planet-Website/static/js/2.5351fa39.chunk.js.LICENSE.txt",
     "static/media/Demo1.e5e3d91a.png": "/Another-Planet-Website/static/media/Demo1.e5e3d91a.png",
     "static/media/Demo2.8bf7f4b8.png": "/Another-Planet-Website/static/media/Demo2.8bf7f4b8.png",
     "static/media/Filip.ebfe5a2e.png": "/Another-Planet-Website/static/media/Filip.ebfe5a2e.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.13447980.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.7ffcd28b.chunk.js",
+    "static/js/2.5351fa39.chunk.js",
     "static/css/main.038b3f1b.chunk.css",
     "static/js/main.a9600853.chunk.js"
   ]
